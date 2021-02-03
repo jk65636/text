@@ -1,0 +1,62 @@
+<annotation>
+	<folder>V_20210203_091549_OC0 (2021-2-3 上午 09-43-18)</folder>
+	<filename>V_20210203_091549_OC0 015.jpg</filename>
+	<path>C:\Users\Tr\Desktop\picture\V_20210203_091549_OC0 (2021-2-3 上午 09-43-18)\V_20210203_091549_OC0 015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>471</ymin>
+			<xmax>385</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>904</ymin>
+			<xmax>663</xmax>
+			<ymax>1190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>873</ymin>
+			<xmax>339</xmax>
+			<ymax>1159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>565</ymin>
+			<xmax>785</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>
